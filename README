@@ -1,0 +1,15 @@
+· Costas Chatzopoulos - 1115201300202
+· Anxhelino Mehmeti   - 1115201400233
+
+* Compile:
+* g++ -o highway *.cpp
+*
+* Run examples:
+* > valgrind ./highway 50 4 1 65
+*
+* > valgrind ./highway 1000 4 1 65 0 0 1 0 0
+*
+* > valgrind ./highway 1000 4 1 65 0 0 1 1 0
+
+
+
